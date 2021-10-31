@@ -1,6 +1,6 @@
 <div align="center">
  
-## Welcome to my Github Profile 👋
+## Hi there, I am Stefanos! 👋
  <br/>
 
 ### Profile Stats:
