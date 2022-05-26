@@ -23,8 +23,10 @@
 <img align="center" alt="TypeScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
 <img align="center" alt="SASS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"/>
 <img align="center" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
+<img align="center" alt="Tailwind" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"/>
 <img align="center" alt="MaterialUI" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"/>
 <img align="center" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
+<img align="center" alt="Next" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/>
 <img align="center" alt="Redux" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"/>
 <img align="center" alt="NodeJs" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
 <img align="center" alt="Express" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"/>
