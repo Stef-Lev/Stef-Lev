@@ -4,10 +4,10 @@
  <br/>
 
 ### Profile Stats:
- 
-[![Stats](https://github-readme-stats.vercel.app/api?username=Stef-Lev&bg_color=00050a&text_color=14cdde&&show_icons=true&hide_border=false&title_color=eb5842&icon_color=f5b700&border_color=14cdde)](https://github.com/Stef-Lev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Stef-Lev&bg_color=00050a&text_color=14cdde&hide_border=false&layout=compact&title_color=eb5842&icon_color=f5b700&border_color=14cdde)](https://github.com/Stef-Lev)
+[![Stats](https://readme-stats.clckblog.space/api?username=Stef-Lev&bg_color=00050a&text_color=14cdde&&show_icons=true&hide_border=false&title_color=eb5842&icon_color=f5b700&border_color=14cdde)](https://github.com/Stef-Lev)
+
+[![Top Langs](https://readme-stats.clckblog.space/api/top-langs/?username=Stef-Lev&bg_color=00050a&text_color=14cdde&hide_border=false&layout=compact&title_color=eb5842&icon_color=f5b700&border_color=14cdde)](https://github.com/Stef-Lev)
 
 
 <br/>
