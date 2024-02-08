@@ -24,7 +24,7 @@
 <img align="center" alt="SASS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg"/>
 <img align="center" alt="Bootstrap" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"/>
 <img align="center" alt="Tailwind" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg"/>
-<img align="center" alt="ChakraUI" width="40px" src="https://camo.githubusercontent.com/eec63163a5209f78e8b0e3d6ab82eb981d03c4453a7a466f4fdc063da09f2a4d/68747470733a2f2f692e696d6775722e636f6d2f454d796b5a62332e706e67"/>
+<img align="center" alt="ChakraUI" width="40px" src="https://github.com/chakra-ui/chakra-ui/blob/main/media/logomark-colored.svg"/>
 <img align="center" alt="MaterialUI" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"/>
 <img align="center" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"/>
 <img align="center" alt="Next" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg"/>
